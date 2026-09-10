@@ -4753,7 +4753,7 @@ MonoBehaviour:
   tracerSize: 1.5
   bulletSelfDestruct: 4
   bulletSpread: 6
-  fireRate: 5600
+  fireRate: 6000
   reloadTime: 1000000
   magazineCapacity: 750
   magazines: 0
