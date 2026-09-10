@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 1706624141, guid: 06dd3d5416bf43ea368cc39ff96e6d5a, type: 3}
-  m_Name: gun_27mm_autocannon_ahead
+  m_Name: gun_20mm_rotary_ahead
   m_EditorClassIdentifier: 
   weaponPrefab: {fileID: 0}
   effectiveness:
@@ -23,7 +23,7 @@ MonoBehaviour:
     minAltitude: 0
     maxAltitude: 100000
     minRange: 0
-    maxRange: 2200
+    maxRange: 2000
     maxSpeed: 100000
     minIR: 0
     minRadar: 0
@@ -31,24 +31,24 @@ MonoBehaviour:
     minOwnerSpeed: 0
     minValue: 0
   pK: 0.01
-  weaponName: 27mm Autocannon (AHEAD)
-  shortName: GUN 27MM
-  description: Slower firing than its rotary counterparts, the 27mm Autocannon packs
-    a heavier punch and is effective against aircraft and missiles due to its Ahead
-    ammunition.
+  weaponName: 20mm Rotary Cannon (AHEAD)
+  shortName: GUN 20MM ROT
+  description: This rotary cannon fires 20mm AHEAD shells at 5600 rounds per minute,
+    making it highly effective against aerial targets. the firerate is reduced due
+    to a heavier shell, and not wanting to break our beloved 20mm gun.
   fireInterval: 0
   muzzleVelocity: 1000
   maxSpeed: -1
-  dragCoef: 0.29
+  dragCoef: 0.48
   gravMult: 1
-  pierceDamage: 310
-  blastDamage: 0.12
-  weaponIcon: {fileID: 21300000, guid: 6adab9971a2b55a4db252b13ba58af19, type: 2}
+  pierceDamage: 320
+  blastDamage: 0.07
+  weaponIcon: {fileID: 21300000, guid: 62cb29fd6bf44e648ad98929434fbc78, type: 2}
   armorTierEffectiveness: 4
   airburstHeight: 0
-  visibilityWhenFired: 2000
-  costPerRound: 0.000055
-  massPerRound: 0.46
+  visibilityWhenFired: 1000
+  costPerRound: 0.000034
+  massPerRound: 0.285
   useWeaponDoors: 1
   boresight: 1
   laserGuided: 0
