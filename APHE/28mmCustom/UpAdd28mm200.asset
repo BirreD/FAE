@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c39d0b3dbc2446349568e124e8619bff, type: 3}
-  m_Name: ApheAdd30mm
+  m_Name: UpAdd28mm200
   m_EditorClassIdentifier: 
-  weaponJsonKey: turret_30mm_chaingun_aphe
+  weaponJsonKey: gun_28mm_internal_200
   aircraft:
-  - aircraftJsonKey: COIN
-    hardpointIndices: 01000000
+  - aircraftJsonKey: SmallFighter1
+    hardpointIndices: 00000000

@@ -10,19 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c39d0b3dbc2446349568e124e8619bff, type: 3}
-  m_Name: ApAdd20mm
+  m_Name: ApheAdd30mm
   m_EditorClassIdentifier: 
-  weaponJsonKey: gunpod_20mm_Ap
+  weaponJsonKey: turret_30mm_chaingun_aphe
   aircraft:
-  - aircraftJsonKey: VTOLTrainer1
-    hardpointIndices: 01000000020000000300000004000000
-  - aircraftJsonKey: trainer
-    hardpointIndices: 0100000002000000
   - aircraftJsonKey: COIN
-    hardpointIndices: 02000000
-  - aircraftJsonKey: CAS1
-    hardpointIndices: 0200000003000000
+    hardpointIndices: 01000000
   - aircraftJsonKey: COINJ
-    hardpointIndices: 02000000
-  - aircraftJsonKey: Aryx_LightFighter1
-    hardpointIndices: 02000000
+    hardpointIndices: 01000000

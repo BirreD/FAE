@@ -22,3 +22,7 @@ MonoBehaviour:
     hardpointIndices: 02000000
   - aircraftJsonKey: CAS1
     hardpointIndices: 0200000003000000
+  - aircraftJsonKey: COINJ
+    hardpointIndices: 02000000
+  - aircraftJsonKey: Aryx_LightFighter1
+    hardpointIndices: 02000000
